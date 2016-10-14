@@ -1,0 +1,80 @@
+.namelist{
+	width: 29%;
+	height: 480px;
+	border:1px solid #ddd;
+	border-top:none;
+	border-bottom: none;
+	margin-top:5px; 
+	font-family: "微软雅黑";
+
+}
+.videoplayer{
+	width: 68%;
+	height: 480px;
+	margin-left: 30%;
+	margin-top: -482px;
+}
+
+.put-title{
+	text-align: center;
+	height: 60px;
+	padding-top: 10px;
+	border-bottom: 1px solid #ddd;	
+}
+.history-put{
+	height: 255px;
+	border-bottom: 1px solid #ddd;
+}
+.history-put-title{
+	text-align: center;
+	font-family: "微软雅黑";
+	border-bottom: 1px solid #ddd;
+	color: #fff;
+	height: 20px;
+    background-color: #414141;
+}
+
+.history-re{
+	height: 255px;
+
+}
+.videoplayer li{
+	width: 90%;
+	height: 42px;
+	padding-top: 10px;
+	border-bottom: 1px solid #ddd;
+}
+.t{
+	width: 50%;
+	height: 60px;
+	background-color: white;
+	border:none;
+	font-family: "微软雅黑";
+	border-right: 1px solid #ddd;
+	letter-spacing:1em; 
+	float: left;
+	margin-top: -55px;
+}
+.d{
+	width: 50%;
+	height: 60px;
+	border:none;
+	font-family: "微软雅黑";
+	float: right;
+	background-color: white;
+	margin-top: -60px;
+	letter-spacing:1em; 
+	margin-top: -55px;
+	float: right;
+}
+.t:hover{
+	background-color:rgb(116,183,0);
+	color: white;
+}
+.d:hover{
+	background-color: rgb(243, 77, 77);
+	color: white;
+}
+.s{
+	margin-top: 55px;
+}

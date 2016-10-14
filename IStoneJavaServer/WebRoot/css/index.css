@@ -1,0 +1,82 @@
+html,body{
+	margin:0px auto;
+	padding: 0;
+}
+
+html{
+	height: 100%;
+	background-size: 100%;
+	background-image: url(../images/sq.png);
+}
+input, a { 
+	outline: none; 
+}
+
+.container{
+	width: 100%;
+	height: 100%;
+	padding-top: 150px;   
+}
+
+.login{
+	display: block;
+	width: 430px;
+	height: 370px;
+	background:rgba(0,0,0,0.4);
+	border-radius: 5%;
+	margin-left: 140px;
+}
+
+.login p{
+	position: relative;
+	font-size: 34px;
+	color: #fff;
+	font-family: Monospace,Cursive,Fantasy;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 20px;
+}
+
+.information{
+    width: 420px;
+	height: 120px;
+}
+.information input{ 
+	width: 300px;
+	height: 40px;
+    background-color: #696969;
+	color: #fff;
+	font-size: 14px;
+	margin-left:70px; 
+    margin-top: 20px;
+    border:1px solid #fff; 
+/*     border-style: none none solid none; */
+    border-style: none;
+}
+
+.action{
+	width: 300px;
+	height: 50px;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+.submit{
+	position: relative;
+	width: 130px;
+	height: 40px;
+	background-color: #218b57;
+	border-style: none;
+	font-size: 14px;
+    color: #fff;
+    margin-left: 30px;
+}
+
+.reset{
+	position: relative;
+    width: 130px;
+	height: 40px;
+	background-color: #218b57;
+	border-style: none;
+	font-size: 14px;
+	color: #fff;
+}

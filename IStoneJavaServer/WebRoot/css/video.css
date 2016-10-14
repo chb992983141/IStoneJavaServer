@@ -1,0 +1,139 @@
+p{
+	font-size: 28px;
+	text-align: center;
+	font-family: "微软雅黑";
+}
+
+video{
+	height: 405px;
+	width: 920px;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+
+.namelist{
+	width: 29%;
+	height: 480px;
+	border:1px solid #ddd;
+	border-top:none;
+	border-bottom: none;
+	margin-top:5px; 
+	font-family: "微软雅黑";
+
+}
+
+.videoplayer{
+	width: 68%;
+	height: 480px;
+	margin-left: 30%;
+	margin-top: -540px;
+}
+.select{
+	height: 60px;
+	border-top: 1px solid #ddd;
+}
+.video-controll{
+	height: 470px;
+}
+.t{
+	width: 50%;
+	height: 60px;
+	background-color: white;
+	border:none;
+	font-family: "微软雅黑";
+	border-right: 1px solid #ddd;
+	letter-spacing:1em; 
+	float: left;
+	margin-top: -55px;
+}
+.d{
+	width: 50%;
+	height: 60px;
+	border:none;
+	font-family: "微软雅黑";
+	float: right;
+	background-color: white;
+	margin-top: -60px;
+	letter-spacing:1em; 
+	margin-top: -55px;
+	float: right;
+}
+.t:hover{
+	background-color:rgb(116,183,0);
+	color: white;
+}
+.d:hover{
+	background-color: rgb(243, 77, 77);
+	color: white;
+}
+
+.info{
+	width: 370px;
+	height: 370px;
+	margin-left: 12px;
+	border: 1px solid #fff;
+	margin-top: -20px;
+	background-image: url(../images/bg1.jpg);
+}
+
+
+.User{
+    margin-left: 25px;
+    margin-top: 40px;
+	width:300px;
+	height: 30px;
+	font-size: 20px;
+	font-family: "微软雅黑";
+	border-bottom:1px solid #414141;
+}
+
+.show{
+	margin-left: 25px;
+	width: 300px;
+	height: 100px;
+	font-family: "微软雅黑";
+	font-size:18px;
+	text-align: center;
+}
+
+.choose{
+	width: 370px;
+	height: 40px;
+	border: 1px solid #ddd;
+	margin-top: 170px;
+}
+
+.bu{
+	width: 50%;
+	height: 40px;
+	color: rgb(116,183,0);
+	font-size: 28px;
+	background-color: #fff;
+	border: none;
+}
+.but{
+    width: 50%;
+	height: 40px;
+	color: rgb(116,183,0);
+	font-size: 28px;
+	background-color: #fff;
+	margin-left: 186px;
+	margin-top: -40px;
+	float: right;
+	border: none;
+	border-left: 1px solid #ddd;
+}
+
+.bu:hover{
+	background-color:rgb(116,183,0);
+	color: #fff;
+}
+.but:hover{
+	background-color:rgb(116,183,0);
+	color: #fff;
+}
+
+.s{
+	margin-top: 55px;
+}
